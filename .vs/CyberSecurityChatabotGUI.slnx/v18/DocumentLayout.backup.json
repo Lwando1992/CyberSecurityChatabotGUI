@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|c:\\users\\lwand\\source\\repos\\cybersecuritychatabotgui\\cybersecuritychatabotgui\\chatapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|solutionrelative:cybersecuritychatabotgui\\chatapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|c:\\users\\lwand\\source\\repos\\cybersecuritychatabotgui\\cybersecuritychatabotgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|solutionrelative:cybersecuritychatabotgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|c:\\users\\lwand\\source\\repos\\cybersecuritychatabotgui\\cybersecuritychatabotgui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E577B1-FCAA-5E59-0125-D8BFF95C1E72}|CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI.csproj|solutionrelative:cybersecuritychatabotgui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatApp.cs",
+              "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\ChatApp.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatabotGUI\\ChatApp.cs",
+              "ToolTip": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\ChatApp.cs",
+              "RelativeToolTip": "CyberSecurityChatabotGUI\\ChatApp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:24:06.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatabotGUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "CyberSecurityChatabotGUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:22:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\Program.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatabotGUI\\Program.cs",
+              "ToolTip": "C:\\Users\\lwand\\source\\repos\\CyberSecurityChatabotGUI\\CyberSecurityChatabotGUI\\Program.cs",
+              "RelativeToolTip": "CyberSecurityChatabotGUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:20:42.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

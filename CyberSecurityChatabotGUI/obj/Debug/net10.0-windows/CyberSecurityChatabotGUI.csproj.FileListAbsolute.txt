@@ -1,0 +1,16 @@
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\bin\Debug\net10.0-windows\CyberSecurityChatabotGUI.exe
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\bin\Debug\net10.0-windows\CyberSecurityChatabotGUI.deps.json
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\bin\Debug\net10.0-windows\CyberSecurityChatabotGUI.runtimeconfig.json
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\bin\Debug\net10.0-windows\CyberSecurityChatabotGUI.dll
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\bin\Debug\net10.0-windows\CyberSecurityChatabotGUI.pdb
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.Form1.resources
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.csproj.GenerateResource.cache
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.AssemblyInfoInputs.cache
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.AssemblyInfo.cs
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.dll
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\refint\CyberSecurityChatabotGUI.dll
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.pdb
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\CyberSecurityChatabotGUI.genruntimeconfig.cache
+C:\Users\lwand\source\repos\CyberSecurityChatabotGUI\CyberSecurityChatabotGUI\obj\Debug\net10.0-windows\ref\CyberSecurityChatabotGUI.dll
